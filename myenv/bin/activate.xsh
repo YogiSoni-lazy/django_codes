@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/partition3/jack/Pictures/fullstack/class/myenv"
+$VIRTUAL_ENV = r"/partition3/jack/Pictures/fullstack/code_on_github/myenv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

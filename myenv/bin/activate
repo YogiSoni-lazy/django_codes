@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/partition3/jack/Pictures/fullstack/class/myenv"
+VIRTUAL_ENV="/partition3/jack/Pictures/fullstack/code_on_github/myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

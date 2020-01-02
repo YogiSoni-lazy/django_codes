@@ -1,4 +1,4 @@
-#!/partition3/jack/Pictures/fullstack/class/myenv/bin/python
+#!/partition3/jack/Pictures/fullstack/code_on_github/myenv/bin/python
 
 import sys
 import getopt

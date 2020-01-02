@@ -1,4 +1,4 @@
-#!/partition3/jack/Pictures/fullstack/class/myenv/bin/python3.6
+#!/partition3/jack/Pictures/fullstack/code_on_github/myenv/bin/python3.6
 from django.core import management
 
 if __name__ == "__main__":

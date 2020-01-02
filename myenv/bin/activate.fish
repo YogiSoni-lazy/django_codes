@@ -57,7 +57,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/partition3/jack/Pictures/fullstack/class/myenv"
+set -gx VIRTUAL_ENV "/partition3/jack/Pictures/fullstack/code_on_github/myenv"
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | tr "." "\n")[1] -lt 3
