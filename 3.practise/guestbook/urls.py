@@ -9,3 +9,4 @@ urlpatterns = [
     path('index/' , views.f3 , { 'name':'Ram' , 'age': 45 , 'city': 'Pune' }),
     path('page/<no>' , views.f4 , { 'author': 'Shakespear' }),
 ]
+

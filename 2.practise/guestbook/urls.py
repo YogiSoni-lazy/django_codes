@@ -1,9 +1,8 @@
 
 from django.contrib import admin
 from django.urls import path
-from . import views
 
-urlpatterns = [
+ urlpatterns = [
     path('myadmin/', admin.site.urls),
     path('home/<stage>' , views.f2 ),
     path('index/<name>' , views.f3 ),
@@ -12,3 +11,4 @@ urlpatterns = [
     path('next/<str:name>/<int:no>', views.f6  ),
     path('new/<slug:idno>', views.f7)    
 ]
+
