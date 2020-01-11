@@ -7,4 +7,3 @@ urlpatterns = [
     path('', include('home.urls')),
     path('', include('login.urls')),
 ]
-

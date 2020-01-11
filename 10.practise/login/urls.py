@@ -5,4 +5,3 @@ urlpatterns = [
     path('signup/<name>/<mail>', views.signup , name='signup'),
     path('login/', views.login , name='login'),
 ]
-

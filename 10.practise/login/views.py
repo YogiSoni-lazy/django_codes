@@ -8,4 +8,3 @@ def signup(request,name,mail):
 def login(request):
 	return redirect('signup', name='abc' , mail='abc@gmail.com')
 
-
